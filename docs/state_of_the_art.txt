@@ -1,0 +1,39 @@
+Social Trading Networks
+
+    A social trading network is an application that enables traders to share their trades or ideas with other traders.
+The trades include Forex, stocks, indices and also commodities.
+
+1. Important names in the field:
+    This is a market where there are quite a big number of players already:
+        - ZuluTrade: probably the biggest social trading network; it offers the possibility to copy other traders' trades
+ automatically, which means you could make money without even being online.
+        - eToro: this is much more an educative platform, introducing novices to trading.
+        - Ayondo: German social trading network that is rapidly expanding in Europe. Offers probably the widest range of
+ trading instruments (Forex, stocks, indices, bonds, interest rates and commodities).
+        - SignalTrader: this platform is specialized in offering automated mirror trading, similar to ZuluTrade's.
+        - Tradeo: a social trading community which allows traders to share their trading activities. Traders can interact
+ and get feedback from other traders, as well as mimic the strategies from other Forex traders.
+        - TradingFloor: the social trading community and platform developed by SAXO Bank Group gives customers access to
+ the latest market news and expert opinions. Traders can use the information to place better trades.
+
+    As can be seen, this market is having quite a big number of well established players, so we taught we should look for
+a niche, that of betting exchanges. The principles are the same as with exchanges of Forex, stocks, commodities, the main
+difference being that there are no commodities here, but games. Traders can exchange information and place bets against
+each other.
+    This niche has just two big players: Smartkets and Betfair, which gives plenty of place to come with novelties.
+
+2. Research:
+On the research side of trading networks, one work stands out: Chain Stability in Trading Networks, by John William Hatfield
+from the University of Texas, Scott Duke Kominers, from Harvard University, Alexandru Nichifor, from the University of
+St. Andrews and Stanford University, Michael Ostrovsky, from Stanford University and Alexander Westkamp, from the University
+of Maastricht.
+
+
+3. Resources:
+    1. http://socialtradingguru.com/networks/social-trading-networks
+    2. https://smarkets.com/welcome/
+    3. https://www.betfair.ro
+    4. https://faculty-gsb.stanford.edu/ostrovsky/papers/cstab.pdf
+    5. https://en.wikipedia.org/wiki/Social_trading
+    6. https://www.etoro.com/en/social-trading/
+    7. http://primepair.com/trading-education/social-trading/beginners-guide
