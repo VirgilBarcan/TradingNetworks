@@ -23,10 +23,8 @@ each other.
     This niche has just two big players: Smartkets and Betfair, which gives plenty of place to come with novelties.
 
 2. Research:
-On the research side of trading networks, one work stands out: Chain Stability in Trading Networks, by John William Hatfield
-from the University of Texas, Scott Duke Kominers, from Harvard University, Alexandru Nichifor, from the University of
-St. Andrews and Stanford University, Michael Ostrovsky, from Stanford University and Alexander Westkamp, from the University
-of Maastricht.
+For the research component of this project our scientific coordinator introduce us a paper "Chain Stability in Trading Networks", by John William Hatfield from the University of Texas, Scott Duke Kominers, from Harvard University, Alexandru Nichifor, from the University of St. Andrews and Stanford University, Michael Ostrovsky, from Stanford University and Alexander Westkamp, from the University of Maastricht. Our aim is to add some own results to that paper. The authors conclude with two results. The main one states that if all agents' preferences are fully substitutable and satisfy the Law of Aggregate Supply and Demand, can be considered only deviations by agents along a chain of contracts. Fully Substitutable means that if an agent expands his opportunities to sell or buy he will reject a larger set of contracts on that side (buy/sell) and select a larger set of opportunities on the other side. Law of Aggregate Supply and Demand states that if an agent expands his options to sell or buy then the number of contracts chosen on that side is at least as large as the contracts chosen on the other side.
+The other result shows that in a finite economy with continously transferable utility, if all agents' preferences are fully substitutable, then an outcome is consistent with competitive equilibrium if and only if is not blocked by any chain. 
 
 
 3. Resources:
