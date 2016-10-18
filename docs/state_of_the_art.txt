@@ -35,6 +35,8 @@ or buy then the number of contracts chosen on that side is at least as large as 
 The other result shows that in a finite economy with continously transferable utility, if all agents' preferences are fully
 substitutable, then an outcome is consistent with competitive equilibrium if and only if is not blocked by any chain. 
 
+Institutional Aspects, statistics and Empirical Evidence regarding Social Trading Networks:
+http://www.efmaefm.org/0EFMAMEETINGS/EFMA%20ANNUAL%20MEETINGS/2015-Amsterdam/papers/EFMA2015_0306_fullpaper.pdf
 
 3. Resources:
     1. http://socialtradingguru.com/networks/social-trading-networks
@@ -44,3 +46,4 @@ substitutable, then an outcome is consistent with competitive equilibrium if and
     5. https://en.wikipedia.org/wiki/Social_trading
     6. https://www.etoro.com/en/social-trading/
     7. http://primepair.com/trading-education/social-trading/beginners-guide
+    8. http://www.fas.nus.edu.sg/ecs/events/seminar/seminar-papers/10Mar14.pdf
