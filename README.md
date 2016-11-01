@@ -7,26 +7,12 @@ Team Members: Ana Puiu, Andrei Purdila, Aurelian Hreapca, Catalin Vlas and Virgi
 
 Contacts:
 
-- Coordinator Cornelius Croitoru
+- Catalin Vlas (catalin.v at mail.ru)
 
-e-mail: croitoru at info.uaic.ro
+- Ana Puiu (ana.puiu27 at yahoo.com)
 
-- Catalin Vlas
+- Andrei Purdila (purdila.andrei at gmail.com)
 
-e-mail: catalin.v at mail.ru
+- Aurelian Hreapca (aurelian.hreapca at info.uaic.ro)
 
-- Ana Puiu
-
-e-mail: ana.puiu27 at yahoo.com
-
-- Andrei Purdila
-
-e-mail: purdila.andrei at gmail.com
-
-- Aurelian Hreapca
-
-e-mail: aurelian.hreapca at info.uaic.ro
-
-- Virgil Barcan
-
-e-mail: virgil.barcan at info.uaic.ro
+- Virgil Barcan (virgil.barcan at info.uaic.ro)
