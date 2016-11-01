@@ -1,0 +1,24 @@
+Use Cases:
+1. As a User I want to see all games (past, present, future)
+   - for past games I want to see the results and the evolution of odds
+   - for present games I want to see livescore and the evolution of odds
+   - for future games I want to see the current odds and their evolution
+
+2. As a User I want to place a bet on a game
+3. As a User I want to see my bets and receive notifications regarding them
+4. As a User I want to save games and receive notifications regarding them
+5. As a User I want to have multiple possible games and be able to sort them
+
+
+
+Big Architectrue:
+1. Data Acquisition
+   - From Public APIs
+   - From Not-so-public APIs (aka. crawling)
+   - From the User (bets, etc.)
+2. Data Processing
+   - Finding bet pairs
+   - Computing odds
+   - Computing statistics
+3. Data Presentation
+   - Web Pages
