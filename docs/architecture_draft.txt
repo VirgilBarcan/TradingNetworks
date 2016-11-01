@@ -1,24 +1,30 @@
-Use Cases:
-1. As a User I want to see all games (past, present, future)
-   - for past games I want to see the results and the evolution of odds
-   - for present games I want to see livescore and the evolution of odds
-   - for future games I want to see the current odds and their evolution
+Our team wants to implement a product for peer-to-peer social betting, that is not constrained
+only to sports but can also include political events, economical events and so on. 
+It's different from a classical bookmaker because bets are against other users and not against company.
+Another peculiar feature that we thought about is a social perspective. Users are nodes in a
+social network and friendships represent edges. 
 
-2. As a User I want to place a bet on a game
-3. As a User I want to see my bets and receive notifications regarding them
-4. As a User I want to save games and receive notifications regarding them
-5. As a User I want to have multiple possible games and be able to sort them
+We identified three layers for our application architecture and would like to focus on two of them.
+I) First of them is Data Acquisition and is not important for our project in this phase. This component
+refers to obtain data about bets from third party sources (API, crawling, etc). 
+For MVP we will probably mock some data and implement the following use-case:
+    UC.I.1) As an admin I want to CRUD a game and options for that game.
 
+II) Second of them is about Data processing and presentation. In this section we will cover how
+games are shown to users, how a particular game is shown to a user, computing process done when somebody
+place a new bet and how odds evolves in time.
+    UC.II.1) As a user I want to see a filterable list of open games.
+    UC.II.2) As a user I want to place a bet on a open game.
+    UC.II.3) As a user I want to see my bets and receive notifications regarding them.
+    UC.II.4) As a user I want to have a list of saved games to receive notifications about them.
+    UC.II.5) As a user I want to have a list of recommended games for me based on previous bets I made.
+    UC.II.6) As an admin I want to see a data about intensively betting games.
+    UC.II.7) As an admin I want to see data about bets that doesn't find matches.
 
-
-Big Architectrue:
-1. Data Acquisition
-   - From Public APIs
-   - From Not-so-public APIs (aka. crawling)
-   - From the User (bets, etc.)
-2. Data Processing
-   - Finding bet pairs
-   - Computing odds
-   - Computing statistics
-3. Data Presentation
-   - Web Pages
+III) The third component refers to Social layer. This section will cover social relationship and how
+can this improve betting experience.
+    UC.III.1) As a user I want to add/remove friends.
+    UC.III.2) As a user I want to view in newsfeed bets from my friends.
+    UC.III.3) As a user I want to copy a bet from a friend.
+    UC.III.4) As a user I want to bet against a friend.
+    UC.III.5) As a user I want to see how my friends placed their bets for a particular game.
