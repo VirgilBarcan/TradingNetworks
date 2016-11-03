@@ -1,0 +1,18 @@
+This file will contain what each one of us did:
+Barcan Virgil:
+  - architecture_draft.txt initial version
+  - ComponentDiagram.png
+  - SD_UC_II_6.png
+  - SD_UC_II_7.png
+  
+Hreapca Aurelian:
+  //TODO Add here
+
+Vlas Catalin:
+  //TODO Add here
+  
+Puiu Ana:
+  //TODO Add here
+  
+Purdila Andrei:
+  //TODO Add here
