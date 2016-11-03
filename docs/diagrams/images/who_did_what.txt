@@ -6,7 +6,9 @@ Barcan Virgil:
   - SD_UC_II_7.png
   
 Hreapca Aurelian:
-  //TODO Add here
+  - arhitecture-draft.txt
+  - CopyBetUC.png
+  - AcceptRejectBetActivity.png
 
 Vlas Catalin:
   //TODO Add here
