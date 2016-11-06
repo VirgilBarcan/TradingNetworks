@@ -14,7 +14,8 @@ Vlas Catalin:
   //TODO Add here
   
 Puiu Ana:
-  //TODO Add here
+  - activityDiagram UC.II.1+2.png
+  - use case UC.II.1+2.png
   
 Purdila Andrei:
   //TODO Add here
