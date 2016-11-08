@@ -11,7 +11,7 @@ Hreapca Aurelian:
   - AcceptRejectBetActivity.png
 
 Vlas Catalin:
-  //TODO Add here
+  - ClassDiagramTraidingNetworks.png
   
 Puiu Ana:
   - activityDiagram UC.II.1+2.png
