@@ -17,7 +17,7 @@ public class BettingEvent {
         registeredUsers = new ArrayList<User>();
     }
 
-    public void registerBet(User user, String gameId, String otionId, String value){
+    public void registerBet(User user, String gameId, String optionId, String value){
 
     }
 
@@ -26,7 +26,6 @@ public class BettingEvent {
     }
 
     public void deleteObserver(User user) {
-
 
     }
 
