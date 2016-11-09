@@ -8,9 +8,7 @@ import java.util.List;
  */
 
 public class Bet  {
-	
-	private List<User> observers = new ArrayList<User>();
-	 
+
 	private User user;
 	private Calendar date;
 	private Double sum;
@@ -52,20 +50,10 @@ public class Bet  {
 	public void setChosenOption(Option chosenOption) {
 		this.chosenOption = chosenOption;
 	}
-	
-	public void register(User obj) {
-		observers.add(obj);		
-	}
-	
-	public void unregister(User obj) {
-		observers.remove(obj);
-	}
-	
+
 	public void notifyUser() {
-		 // send bet result 
-		 //for (User observer : observers) {
-	     //    observer.update();
-	     // }
+		 // send bet result
+		 //TODO: Announce the user of the bet results
 	}
 	public String getId() {
 		return id;
