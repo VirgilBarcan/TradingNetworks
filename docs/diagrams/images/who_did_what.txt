@@ -18,4 +18,5 @@ Puiu Ana:
   - use case UC.II.1+2.png
   
 Purdila Andrei:
-  //TODO Add here
+  - activityDiagram_UC_III_4.png
+  - useCaseDiagram_UC_III_4.png
