@@ -10,6 +10,7 @@ import java.util.ArrayList;
 public interface NewsPaper {
     String name = null;
     ArrayList<User> activeUsers = null;
+    String description = null;
 
     String getName();
     void setName();
@@ -17,5 +18,6 @@ public interface NewsPaper {
     void addUser(User user);
     void deleteUser(User user);
     void update();
+    String getDescription();
 
 }
