@@ -36,4 +36,9 @@ public class LatestBetEventsNewsPaper implements NewsPaper {
     public void update() {
 
     }
+
+    @Override
+    public String getDescription() {
+        return null;
+    }
 }
